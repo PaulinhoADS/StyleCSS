@@ -19,11 +19,6 @@ header {
     transition: transform 0.5s ease, opacity 0.5s ease;
 }
 
-.header-image:hover {
-    transform: scale(1.05); /* Aumentar levemente o tamanho ao passar o mouse */
-    opacity: 0.9; /* Reduzir a opacidade ao passar o mouse */
-}
-
 main {
     width: 90%;
     margin: 20px auto;
