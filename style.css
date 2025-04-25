@@ -15,13 +15,14 @@ header {
     background-color: #d4a5a5;
     padding: 20px;
     width: 100%;
-    animation: slide 2s ease-in-out infinite;
+    
 }
 
 .header-image {
     max-width: 100%;
     height: auto;
     border-radius: 10px;
+    animation: slide 2s ease-in-out infinite;
 }
 
 main {
