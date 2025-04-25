@@ -55,7 +55,6 @@ main {
     max-width: 150px;
     height: auto;
     border-radius: 5px;
-    animation: slide 2s ease-in-out infinite;
 }
 
 @media (max-width: 768px) {
