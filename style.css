@@ -22,7 +22,6 @@ header {
     max-width: 100%;
     height: auto;
     border-radius: 10px;
-    animation: slide 2s ease-in-out infinite;
 }
 
 main {
@@ -56,6 +55,7 @@ main {
     max-width: 150px;
     height: auto;
     border-radius: 5px;
+    animation: slide 2s ease-in-out infinite;
 }
 
 @media (max-width: 768px) {
